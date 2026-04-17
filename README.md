@@ -144,7 +144,7 @@ Once the backend is running and the frontend is open, enter a URL into the scann
 ---
 
 ## Team
-- **Vyshnav** — Full-stack Development & AI Integration
+- **Vyshnav KS % Aravind S Bhaskar** — Full-stack Development & AI Integration
 
 ---
 
